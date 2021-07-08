@@ -1,0 +1,76 @@
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\Test App.dll.config
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\Test App.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\Test App.pdb
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\csc.exe
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\csc.exe.config
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\csc.rsp
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\csi.exe
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\csi.exe.config
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\csi.rsp
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.AppContext.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Collections.Immutable.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Console.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.IO.Compression.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.IO.FileSystem.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.IO.Pipes.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Security.AccessControl.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Security.Claims.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.ValueTuple.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Xml.XPath.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\vbc.exe
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\vbc.exe.config
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\vbc.rsp
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\VBCSCompiler.exe
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\roslyn\VBCSCompiler.exe.config
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\Antlr3.Runtime.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\Microsoft.Web.Infrastructure.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\Newtonsoft.Json.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.Helpers.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.Mvc.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.Optimization.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.Razor.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.WebPages.Deployment.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.WebPages.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.WebPages.Razor.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\WebGrease.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.Helpers.xml
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.Mvc.xml
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.Optimization.xml
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.Razor.xml
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.WebPages.xml
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.WebPages.Deployment.xml
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\System.Web.WebPages.Razor.xml
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\Newtonsoft.Json.xml
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\Antlr3.Runtime.pdb
+C:\Daiichi\DevOps Demo\Test App\Test App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Daiichi\DevOps Demo\Test App\Test App\obj\Debug\Test App.csprojAssemblyReference.cache
+C:\Daiichi\DevOps Demo\Test App\Test App\obj\Debug\Test App.csproj.CoreCompileInputs.cache
+C:\Daiichi\DevOps Demo\Test App\Test App\obj\Debug\Test App.csproj.CopyComplete
+C:\Daiichi\DevOps Demo\Test App\Test App\obj\Debug\Test App.dll
+C:\Daiichi\DevOps Demo\Test App\Test App\obj\Debug\Test App.pdb
